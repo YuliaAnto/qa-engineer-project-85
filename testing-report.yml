@@ -1,0 +1,8 @@
+---
+- summary: |
+    Создание игры против бота
+  status: pass
+
+- summary: |
+    Отправка решения задачи
+  status: pass
