@@ -1,81 +1,81 @@
 ---
 - summary: Регистрация и авторизация в системе
-  status: Pass
+  status: pass
 
 - summary: Выход из аккаунта
-  status: Pass
+  status: pass
 
 - summary: Отображение данных в личном кабинете
-  status: Pass
+  status: pass
 
 - summary: Создание игры неавторизованным пользователем
-  status: Pass
+  status: pass
 
 - summary: Создание новой игры
-  status: Pass
+  status: pass
 
 - summary: Выбор языка программирования в процессе игры
-  status: Pass
+  status: pass
 
 - summary: Отображение игры в списке доступных
-  status: Pass
+  status: pass
 
 - summary: Подключение второго игрока к игре
-  status: Pass
+  status: pass
 
 - summary: Синхронизация кода в реальном времени
-  status: Pass
+  status: pass
 
 - summary: Отправка решения и получение результата
-  status: Pass
+  status: pass
 
 - summary: Отображение окна победителя при успешном решении
-  status: Pass
+  status: pass
 
 - summary: Поведение проигравшего игрока после победы соперника
-  status: Pass
+  status: pass
 
 - summary: Просмотр истории завершенных игр
-  status: Pass
+  status: pass
 
 - summary: Отображение таймера и доступность кнопки Check
-  status: Pass
+  status: pass
 
 - summary: Запуск тестов на локальном коде
-  status: Pass
+  status: pass
 
 - summary: Проверка скорости работы сайта
-  status: Pass
+  status: pass
 
 - summary: Безопасность и защита данных пользователя
-  status: Pass
+  status: pass
 
 - summary: Совместимость с последними версиями браузеров
-  status: Pass
+  status: pass
 
 - summary: Проверка нагрузки в 1000 одновременных пользователей
-  status: Pass
+  status: pass
 
 - summary: Синхронизация кода в реальном времени
-  status: Pass
+  status: pass
 
 - summary: Восстановление сессии при разрыве соединения
-  status: Pass
+  status: pass
 
 - summary: Сообщение при неверном логине или пароле
-  status: Pass
+  status: pass
 
 - summary: Получение результата после отправки решения
-  status: Pass
+  status: pass
 
 - summary: Отсутствие зависаний при большой нагрузке
-  status: Pass
+  status: pass
 
 - summary: Сообщение при потере соединения
-  status: Pass
+  status: pass
 
 - summary: Блокировка кнопки Check у победителя
-  status: Pass
+  status: pass
 
 - summary: Удаление игры после выхода обоих игроков
-  status: Pass
+  status: pass
