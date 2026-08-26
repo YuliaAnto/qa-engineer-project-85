@@ -1,8 +1,81 @@
 ---
-- summary: |
-    Создание игры против бота
-  status: pass
+- summary: Регистрация и авторизация в системе
+  status: Pass
 
-- summary: |
-    Отправка решения задачи
-  status: pass
+- summary: Выход из аккаунта
+  status: Pass
+
+- summary: Отображение данных в личном кабинете
+  status: Pass
+
+- summary: Создание игры неавторизованным пользователем
+  status: Pass
+
+- summary: Создание новой игры
+  status: Pass
+
+- summary: Выбор языка программирования в процессе игры
+  status: Pass
+
+- summary: Отображение игры в списке доступных
+  status: Pass
+
+- summary: Подключение второго игрока к игре
+  status: Pass
+
+- summary: Синхронизация кода в реальном времени
+  status: Pass
+
+- summary: Отправка решения и получение результата
+  status: Pass
+
+- summary: Отображение окна победителя при успешном решении
+  status: Pass
+
+- summary: Поведение проигравшего игрока после победы соперника
+  status: Pass
+
+- summary: Просмотр истории завершенных игр
+  status: Pass
+
+- summary: Отображение таймера и доступность кнопки Check
+  status: Pass
+
+- summary: Запуск тестов на локальном коде
+  status: Pass
+
+- summary: Проверка скорости работы сайта
+  status: Pass
+
+- summary: Безопасность и защита данных пользователя
+  status: Pass
+
+- summary: Совместимость с последними версиями браузеров
+  status: Pass
+
+- summary: Проверка нагрузки в 1000 одновременных пользователей
+  status: Pass
+
+- summary: Синхронизация кода в реальном времени
+  status: Pass
+
+- summary: Восстановление сессии при разрыве соединения
+  status: Pass
+
+- summary: Сообщение при неверном логине или пароле
+  status: Pass
+
+- summary: Получение результата после отправки решения
+  status: Pass
+
+- summary: Отсутствие зависаний при большой нагрузке
+  status: Pass
+
+- summary: Сообщение при потере соединения
+  status: Pass
+
+- summary: Блокировка кнопки Check у победителя
+  status: Pass
+
+- summary: Удаление игры после выхода обоих игроков
+  status: Pass
