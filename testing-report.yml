@@ -1,5 +1,4 @@
 ---
-test-cases:
 - summary: Регистрация и авторизация в системе
   status: pass
 
